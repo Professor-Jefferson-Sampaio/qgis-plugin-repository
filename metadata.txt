@@ -1,0 +1,12 @@
+[general]
+name=Food Map Points
+description=Carrega pontos do mapa FoodMap Floripa
+version=1.0
+qgisMinimumVersion=3.0
+author=Jefferson Sampaio
+email=mastersuportefloripa@gmail.com
+category=Web
+icon=icon.png
+
+# Adicione estas linhas:
+homepage=https://food-map.top
